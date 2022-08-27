@@ -1,2 +1,2 @@
 # loruki
-website for theloruki cli
+website for the loruki cli
